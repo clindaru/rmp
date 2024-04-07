@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Page title
-st.set_page_config(page_title='RMP Interactive Data Explorer', page_icon='🏫')
-st.title('🏫 RMP Interactive Data Explorer')
+st.set_page_config(page_title='RMP Interactive Data Explorer', page_icon='📚')
+st.title('📚 RMP Interactive Data Explorer')
 
 with st.expander('About this app'):
   st.markdown('**What can this app do?**')
